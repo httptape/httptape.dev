@@ -2,90 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://httptape.dev/docs/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/api-reference/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/caching-transport/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/cli/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/config/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/docker/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/fixtures-authoring/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/getting-started/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/import-export/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/matching/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/other-languages/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/proxy/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/recording/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/replay/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/sanitization/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/storage/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/synthesis/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/template-helpers/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/testcontainers/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/tls/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/ui-first-dev/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
     <url>
          <loc>https://httptape.dev/docs/why/</loc>
-         <lastmod>2026-06-05</lastmod>
+         <lastmod>2026-08-05</lastmod>
     </url>
 </urlset>
